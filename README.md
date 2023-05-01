@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PeterAlaniemi
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development & UX Design
 - 🌱 I’m currently learning HTML, CSS, and Javascript
 
 <!---
